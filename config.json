@@ -1,0 +1,7 @@
+{
+  "token": "BOT_TOKEN_BURAYA",
+  "clientId": "UYGULAMA_ID_BURAYA",
+  "status": "b1long was here",
+  "voice": "SES_KANAL_ID_BURAYA",
+  "mongokey": "MONGODB_URL_BURAYA"
+}
