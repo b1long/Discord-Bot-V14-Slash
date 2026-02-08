@@ -12,10 +12,8 @@
 
 - **Slash komutlar** — Discord’un güncel slash komut yapısı
 - **Temiz altyapı** — `commands/` klasörüne dosya ekleyerek yeni komutlar
-- **Otomatik komut yükleme** — Tüm `.js` dosyaları otomatik okunur
 - **MongoDB (isteğe bağlı)** — Veritabanı kullanmak istersen `config.json` içine bağlantı eklemen yeterli
 - **Ses kanalı (isteğe bağlı)** — Botun giriş yapacağı bir ses kanalı ID’si tanımlanabilir
-- **Özelleştirilebilir durum** — Botun “Playing …” metni `config.json` üzerinden ayarlanır
 
 ---
 
@@ -26,7 +24,6 @@ Discord-Bot-V14/
 ├── commands/           # Slash komutlar (her dosya = bir komut)
 │   └── ping.js
 ├── config.json         # Token, clientId, status, voice, mongokey (bu dosyayı paylaşma!)
-├── config.example.json # Örnek config (GitHub'da bunu paylaş)
 ├── deploy-commands.js  # Slash komutları Discord'a kaydeder
 ├── index.js            # Bot giriş noktası
 └── package.json
@@ -116,3 +113,4 @@ MIT — detaylar için `LICENSE` dosyasına bakabilirsin.
 ---
 
 *Discord.js v14 ile geliştirilmiş temiz bir altyapı. İyi kullanımlar!*
+
