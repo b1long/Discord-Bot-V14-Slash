@@ -98,14 +98,6 @@ npm start
 
 ---
 
-## ⚠️ Güvenlik
-
-- **`config.json`** içinde token ve hassas bilgiler var. Bu dosyayı **asla** GitHub’a yükleme.
-- Repoyu paylaşırken `config.example.json` kullan; gerçek değerleri boş bırak.
-- `.gitignore` ile `config.json` ve `*.zip` zaten hariç tutulabilir.
-
----
-
 ## 📜 Lisans
 
 MIT — detaylar için `LICENSE` dosyasına bakabilirsin.
@@ -113,5 +105,6 @@ MIT — detaylar için `LICENSE` dosyasına bakabilirsin.
 ---
 
 *Discord.js v14 ile geliştirilmiş temiz bir altyapı. İyi kullanımlar!*
+
 
 
