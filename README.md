@@ -23,7 +23,7 @@
 Discord-Bot-V14/
 ├── commands/           # Slash komutlar (her dosya = bir komut)
 │   └── ping.js
-├── config.json         # Token, clientId, status, voice, mongokey (bu dosyayı paylaşma!)
+├── config.json         # Token, clientId, status, voice, mongokey
 ├── deploy-commands.js  # Slash komutları Discord'a kaydeder
 ├── index.js            # Bot giriş noktası
 └── package.json
@@ -113,4 +113,5 @@ MIT — detaylar için `LICENSE` dosyasına bakabilirsin.
 ---
 
 *Discord.js v14 ile geliştirilmiş temiz bir altyapı. İyi kullanımlar!*
+
 
